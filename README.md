@@ -2,71 +2,143 @@
 
 ### Data Science
 
-*The Science of Data. The Discipline of Evidence.*
+---
 
-Data is more than a collection of observations. It is a structured representation of phenomena, relationships, uncertainty, and information waiting to be examined.
+## Profile
 
-My academic focus lies in the scientific foundations of data: understanding how it is generated, how it is represented, how its quality influences analysis, and how rigorous methods transform observations into defensible conclusions.
+My academic background in Data Science encompasses statistical analysis, machine learning, data structures, database systems, data collection and preprocessing, web data analysis, and data integration.
 
-I am particularly drawn to the intersection of statistical reasoning, computational analysis, and the systematic investigation of complex datasets.
+This multidisciplinary foundation connects the mathematical, statistical, and computational principles of Data Science with the practical processes of organizing, processing, modeling, analyzing, and interpreting data.
+
+My academic development emphasizes analytical methodology, computational problem-solving, data reliability, and the systematic application of scientific and technical methods.
 
 ---
 
-## Intellectual Focus
+## Academic Foundation
 
-*Understanding Data at Its Foundations*
+### 01 / Statistics & Analytical Methods
 
-My interest in data science extends beyond analytical outcomes to the principles that make those outcomes reliable.
+•⁠  ⁠Applied Statistics for Data Science
 
-•⁠  ⁠*Data Structures & Representation* — Examining how information is organized, modeled, and preserved.
-•⁠  ⁠*Statistical Inference & Reasoning* — Investigating patterns, variability, relationships, and uncertainty.
-•⁠  ⁠*Data Acquisition & Transformation* — Understanding how raw observations become structured analytical resources.
-•⁠  ⁠*Computational Analysis* — Applying systematic approaches to exploring and interpreting datasets.
-•⁠  ⁠*Data Integrity & Reliability* — Considering the quality, consistency, and limitations of the evidence.
-•⁠  ⁠*Analytical Communication* — Presenting complex findings with precision, clarity, and context.
+•⁠  ⁠Probability & Statistical Distributions
+
+•⁠  ⁠Descriptive & Inferential Statistics
+
+•⁠  ⁠Exploratory Data Analysis
+
+•⁠  ⁠Quantitative Reasoning & Interpretation
+
+### 02 / Machine Learning
+
+•⁠  ⁠Machine Learning for Data Science
+
+•⁠  ⁠Foundations of Learning from Data
+
+•⁠  ⁠Data Preparation for Machine Learning
+
+•⁠  ⁠Patterns, Models & Predictive Analysis
+
+### 03 / Data Structures & Computational Foundations
+
+•⁠  ⁠Data Structures
+
+•⁠  ⁠Algorithmic Thinking
+
+•⁠  ⁠Computational Problem-Solving
+
+•⁠  ⁠Data Organization & Processing
+
+•⁠  ⁠Knowledge Representation & Inference
+
+### 04 / Database Systems & Data Integration
+
+•⁠  ⁠Relational Database Fundamentals
+
+•⁠  ⁠Database Design & Organization
+
+•⁠  ⁠Structured Data Management
+
+•⁠  ⁠Data Integration
+
+•⁠  ⁠Data Warehousing Concepts
+
+### 05 / Data Collection & Preprocessing
+
+•⁠  ⁠Data Acquisition
+
+•⁠  ⁠Data Cleaning & Transformation
+
+•⁠  ⁠Data Preparation Workflows
+
+•⁠  ⁠Data Quality & Consistency
+
+•⁠  ⁠Web Data Analysis
+
 
 ---
 
-## Academic Perspective
+## Expanding Academic Focus
 
-### From Observation to Understanding
+My current academic studies extend into additional areas of Data Science and computing.
 
-A dataset does not explain itself.
+*Data Modeling*
+•⁠  ⁠Data Relationships
+•⁠  ⁠Structural Design
+•⁠  ⁠Data Representation
 
-Meaning emerges through the questions we formulate, the assumptions we examine, the methods we select, and the evidence we evaluate.
 
-I approach data science as a discipline that connects mathematical reasoning, computational thinking, and critical interpretation.
+*Data Visualization*
+•⁠  ⁠Visual Data Exploration
+•⁠  ⁠Information Representation
+•⁠  ⁠Communication of Analytical Findings
 
-My academic development is guided by a central principle:
 
-*A meaningful conclusion is only as strong as the data, methodology, and reasoning behind it.*
+*Data Management*
+•⁠  ⁠Data Organization
+•⁠  ⁠Data Management Principles
+•⁠  ⁠Data Lifecycle Considerations
+
+
+*Data Security & Privacy*
+•⁠  ⁠Data Protection
+•⁠  ⁠Information Confidentiality
+•⁠  ⁠Responsible Data Handling
+
+
+*Software Engineering Foundations*
+•⁠  ⁠Software Development Principles
+•⁠  ⁠Structured Implementation
+•⁠  ⁠Software Design Fundamentals
+
+
+*Operating Systems & Networks*
+•⁠  ⁠Operating System Fundamentals
+•⁠  ⁠Computing Environments
+•⁠  ⁠Network Concepts
 
 ---
 
-## Technical Practice
+## Technical Portfolio
 
-My academic and practical work explores the processes involved in preparing, structuring, examining, and interpreting data.
+This GitHub profile serves as the central space for documenting my academic and practical work in Data Science.
 
-This section will evolve into a documented record of technical implementations, analytical methods, and reproducible workflows.
+Project documentation is structured around:
+
+•⁠  ⁠*Problem Definition* — Analytical objectives and research questions.
+
+•⁠  ⁠*Data Preparation* — Dataset characteristics, cleaning, and transformation.
+
+•⁠  ⁠*Methodology* — Statistical and computational approaches.
+
+•⁠  ⁠*Implementation* — Technical processes and analytical workflows.
+
+•⁠  ⁠*Evaluation* — Results, interpretation, and limitations.
+
+•⁠  ⁠*Documentation* — Reproducibility and clear technical reporting.
 
 ---
 
 ## Selected Projects
 
-A growing collection of academic and independent work examining real datasets through structured analysis, computational methods, and evidence-based interpretation.
+Selected academic and independent Data Science projects will be featured here with their repositories, methodologies, implementations, and documented findings.
 
-Each completed project will be documented with its objectives, methodology, implementation, and findings.
-
----
-
-## Research Mindset
-
-*Question the data. Examine the method. Validate the conclusion.*
-
-I value analytical rigor, reproducibility, transparency, and intellectual curiosity.
-
-For me, data science is not simply about obtaining results. It is about understanding why those results emerge, what they reveal, and where their limitations begin.
-
----
-
-Precision in Method. Clarity in Evidence. Depth in Understanding.
